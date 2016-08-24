@@ -1,0 +1,7 @@
+﻿{
+	"$schema": "http://json-schema.org/draft-04/schema",
+	"title": "JSON Scehma for a published message",
+  "description": "rdfin.rdf_schemas.PublishMessage",
+  "type": "object",
+  "required": [ "IsPublish", "PublishDate" ]
+}

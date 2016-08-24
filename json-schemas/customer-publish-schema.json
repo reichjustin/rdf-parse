@@ -1,0 +1,8 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "title": "JSON Schema for a published VMS Next Customer",
+  "description": "rdfin.rdf_schemas.CustomerPublish",
+  "type": "object",
+  "required": [ "CustomerId", "IsPublish" ]
+}
+

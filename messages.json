@@ -1,0 +1,21 @@
+﻿[
+  {
+
+    "CustomerId": "sasd454asd",
+    "IsPublish": true,
+    "test": 123,
+    "PublishDate": "12-12-2015",
+    "MessageType": "CustomerPublishMessage"
+  },
+  {
+
+    "StaffId": "STAFFID",
+    "JobId": "JOBID",
+    "IsPublish": true,
+    "PublishDate": "12-13-2015",
+    "MessageType": "StaffAppliedMessage"
+  },
+  {
+    "A":  "A"
+  }
+]
